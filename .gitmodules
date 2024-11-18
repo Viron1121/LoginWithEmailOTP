@@ -1,0 +1,3 @@
+[submodule "LaravelCRUD"]
+	path = LaravelCRUD
+	url = https://github.com/Viron1121/LaravelCRUD.git
